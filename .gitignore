@@ -5,3 +5,4 @@ __pycache__/
 .coverage.*
 coverage_html/
 htmlcov/
+docs/so-do-ci-tiet-2.md
