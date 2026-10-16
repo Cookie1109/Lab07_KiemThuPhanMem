@@ -1,0 +1,7 @@
+* 03efa22 - 2312708 - Trương Võ Trọng Nhân (Fri Oct 16 16:16:31 2026 +0700): Khôi phục mã nguồn và xuất HTML Coverage Artifact
+* bf928d4 - 2312708 - Cookie1109 (Fri Oct 16 16:14:27 2026 +0700): Cố ý tạo lỗi cú pháp để kiểm chứng Linter
+* b58c132 - Cookie1109 (Fri Oct 16 16:11:06 2026 +0700): Bổ sung kiểm thử Mocking để vượt cổng chất lượng CI
+* c4abd00 - Cookie1109 (Fri Oct 16 15:40:52 2026 +0700): Kích hoạt cổng chất lượng CI với ngưỡng Coverage 80%
+* 9617b59 - Cookie1109 (Fri Oct 16 14:51:44 2026 +0700): Thêm CI GitHub Actions cơ bản
+* 77274e3 - Cookie1109 (Fri Oct 16 14:40:02 2026 +0700): Ignore Python cache and local coverage data
+* f675335 - Cookie1109 (Fri Oct 16 14:18:08 2026 +0700): first commit
