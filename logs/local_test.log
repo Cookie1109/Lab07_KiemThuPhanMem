@@ -12,7 +12,7 @@ test_apply_special_promo_code_on_os_15 (test_yummy_app.TestMediumLevel.test_appl
 test_apply_valid_promo_code_online (test_yummy_app.TestMediumLevel.test_apply_valid_promo_code_online) ... ok
 
 ----------------------------------------------------------------------
-Ran 12 tests in 0.012s
+Ran 12 tests in 0.005s
 
 OK
 Name                Stmts   Miss  Cover   Missing
